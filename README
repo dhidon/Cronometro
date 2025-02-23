@@ -1,0 +1,74 @@
+# Cronômetro
+
+Um cronômetro simples com função de marcar voltas.
+
+## Descrição
+
+Este é um cronômetro desenvolvido em JavaScript e React Native. O objetivo principal do projeto é marcar o tempo e permitir que o usuário registre voltas específicas.
+
+## Funcionalidades
+
+- Iniciar e parar o cronômetro
+- Marcar voltas durante o cronômetro
+- Exibir uma lista com todas as voltas registradas pelo usuário
+- Zerar o tempo e as marcações
+
+## Instalação
+
+Para instalar e configurar o projeto, siga os seguintes passos:
+
+1. Clone o repositório para o seu ambiente local:
+    ```bash
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd nome-do-repositorio
+    ```
+
+3. Instale as dependências do projeto:
+    ```bash
+    npm install
+    ```
+
+## Uso
+
+Para utilizar o cronômetro, siga os seguintes passos:
+
+1. Inicie o aplicativo:
+    ```bash
+    npm start
+    ```
+
+2. Utilize os botões para iniciar, parar, marcar voltas e zerar o cronômetro.
+
+3. Confira a lista de voltas registradas.
+
+## Contribuição
+
+Este projeto teve como base a lição de como criar um cronômetro do curso Fábrica de Apps do Sujeito Programador, com algumas modificações e adições feitas por mim. Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Para contribuir, siga os seguintes passos:
+
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature:
+    ```bash
+    git checkout -b feature/MinhaFeature
+    ```
+3. Commit suas mudanças:
+    ```bash
+    git commit -m 'Adicionar minha feature'
+    ```
+4. Envie para a branch:
+    ```bash
+    git push origin feature/MinhaFeature
+    ```
+5. Abra um Pull Request
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Para mais informações, consulte o arquivo LICENSE.
+
+## Autores
+
+- Base do projeto: Fábrica de Apps do curso Sujeito Programador
+- Modificações e adições: dhidon
